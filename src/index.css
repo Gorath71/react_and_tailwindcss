@@ -4,12 +4,12 @@
 
 @layer base {
     body {
-        @apply bg-background-light dark:bg-background-dark;
-    }
-    p {
-        @apply font-sans text-text-light dark:text-text-dark;
+        @apply bg-background-light dark:bg-background-dark font-sans text-text-light dark:text-text-dark;
     }
     h3 {
-        @apply font-heading text-[2rem] text-text-light dark:text-text-dark;
+        @apply font-heading text-[2rem];
+    }
+    a {
+        @apply hover:text-text-light-hover dark:hover:text-text-dark-hover transition transition-all;
     }
 }

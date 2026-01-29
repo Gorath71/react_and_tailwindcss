@@ -12,8 +12,14 @@ export default {
           dark: "#121212"
         },
         text: {
-          light: "#121212",
-          dark: "#f2f2f2"
+          light: {
+            DEFAULT: "#121212",
+            hover: "#545252"
+          },
+          dark: {
+            DEFAULT: "#f2f2f2",
+            hover: "#c9c6c6"
+          }
         },
         primary: {
           DEFAULT: "#387780",
