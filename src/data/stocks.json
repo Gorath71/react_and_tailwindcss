@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "price_current": 187.45,
+    "change_percent": { "year": 24.18, "month": 3.72, "week": -1.15, "day": 0.84 }
+  },
+  {
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT",
+    "price_current": 412.30,
+    "change_percent": { "year": 31.05, "month": 4.91, "week": 1.12, "day": 0.45 }
+  },
+  {
+    "name": "Alphabet Inc.",
+    "symbol": "GOOGL",
+    "price_current": 153.88,
+    "change_percent": { "year": 19.44, "month": 2.37, "week": -0.42, "day": 0.19 }
+  },
+  {
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZN",
+    "price_current": 171.62,
+    "change_percent": { "year": 27.91, "month": 6.12, "week": 1.87, "day": 1.05 }
+  },
+  {
+    "name": "Meta Platforms Inc.",
+    "symbol": "META",
+    "price_current": 484.20,
+    "change_percent": { "year": 94.33, "month": 8.21, "week": 2.14, "day": -0.36 }
+  },
+  {
+    "name": "Tesla Inc.",
+    "symbol": "TSLA",
+    "price_current": 221.75,
+    "change_percent": { "year": -8.44, "month": -3.91, "week": -2.12, "day": -1.08 }
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA",
+    "price_current": 624.90,
+    "change_percent": { "year": 182.55, "month": 12.47, "week": 4.38, "day": 2.11 }
+  },
+  {
+    "name": "Netflix Inc.",
+    "symbol": "NFLX",
+    "price_current": 608.15,
+    "change_percent": { "year": 46.82, "month": 5.44, "week": 0.92, "day": -0.27 }
+  },
+  {
+    "name": "Advanced Micro Devices",
+    "symbol": "AMD",
+    "price_current": 168.40,
+    "change_percent": { "year": 61.03, "month": 7.91, "week": 1.74, "day": 0.66 }
+  },
+  {
+    "name": "Intel Corporation",
+    "symbol": "INTC",
+    "price_current": 43.28,
+    "change_percent": { "year": 12.84, "month": 1.18, "week": -0.88, "day": 0.14 }
+  },
+  {
+    "name": "IBM",
+    "symbol": "IBM",
+    "price_current": 191.10,
+    "change_percent": { "year": 15.22, "month": 2.11, "week": 0.43, "day": 0.08 }
+  },
+  {
+    "name": "Oracle Corporation",
+    "symbol": "ORCL",
+    "price_current": 118.70,
+    "change_percent": { "year": 34.91, "month": 4.73, "week": 1.22, "day": 0.55 }
+  },
+  {
+    "name": "Salesforce Inc.",
+    "symbol": "CRM",
+    "price_current": 292.44,
+    "change_percent": { "year": 41.08, "month": 3.84, "week": 0.91, "day": -0.12 }
+  },
+  {
+    "name": "Adobe Inc.",
+    "symbol": "ADBE",
+    "price_current": 623.35,
+    "change_percent": { "year": 29.54, "month": 2.68, "week": -0.55, "day": 0.24 }
+  },
+  {
+    "name": "PayPal Holdings",
+    "symbol": "PYPL",
+    "price_current": 61.80,
+    "change_percent": { "year": -18.62, "month": -2.91, "week": -1.33, "day": -0.41 }
+  },
+  {
+    "name": "Visa Inc.",
+    "symbol": "V",
+    "price_current": 279.40,
+    "change_percent": { "year": 21.77, "month": 3.12, "week": 0.88, "day": 0.36 }
+  },
+  {
+    "name": "Mastercard Inc.",
+    "symbol": "MA",
+    "price_current": 472.90,
+    "change_percent": { "year": 23.41, "month": 2.91, "week": 0.64, "day": 0.19 }
+  },
+  {
+    "name": "JPMorgan Chase",
+    "symbol": "JPM",
+    "price_current": 172.65,
+    "change_percent": { "year": 18.94, "month": 2.14, "week": 0.52, "day": 0.11 }
+  },
+  {
+    "name": "Bank of America",
+    "symbol": "BAC",
+    "price_current": 33.88,
+    "change_percent": { "year": 9.44, "month": 1.73, "week": 0.34, "day": 0.07 }
+  }
+]
