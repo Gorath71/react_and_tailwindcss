@@ -17,12 +17,11 @@ const Navbar = () => {
             <li><Link to={'/currencies'}>Currencies</Link></li>
           </ul>
 
-          <div>
+          <div className='flex gap-4'>
             <Link to={'/wallet'}>My wallet</Link>
-          </div>
-
-          <div className='flex gap-2 text-accent cursor-default'>
-            <WalletIcon className="w-6 h-6" />$21,130.50
+            <div className='flex gap-2 text-accent cursor-default'>
+              <WalletIcon className="w-6 h-6" />$21,130.50
+            </div>
           </div>
 
           <div className='flex gap-6'>
