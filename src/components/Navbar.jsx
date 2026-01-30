@@ -6,8 +6,8 @@ import SingOutIcon from './icons/SingOutIcon'
 
 const Navbar = () => {
   return (
-    <header className='flex justify-center pl-4 pr-4'>
-        <nav className='w-full max-w-screen-xl flex justify-between items-center pt-4 pb-4'>
+    <header className='flex justify-center'>
+        <nav className='w-full max-w-screen-xl flex justify-between items-center p-4'>
           <div className='cursor-default'>
             <h3><span className='text-accent'>i</span>Wallet</h3>
           </div>
