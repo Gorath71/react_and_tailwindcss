@@ -5,6 +5,7 @@ import Currencies from './pages/Currencies'
 import NotFound from './pages/NotFound'
 import Navbar from './components/Navbar'
 import Wallet from './pages/Wallet'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
         <Route path='/wallet' element={<Wallet />} />
         <Route path='*' element={<NotFound />} />
       </Routes>
+      <Footer />
     </>
   )
 }
